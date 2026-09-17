@@ -111,7 +111,7 @@
 <td>
 
 ### 🛡️ PlacePrep
-**Built at CodePunk Hackathon (Full Stack Domain) — 🏆 5th Place**
+**Built at CodePunk Hackathon (Full Stack Domain)**
 
 A placement-preparation platform designed to help students practice **company-specific coding questions, previous-year questions, and timed tests** in one place. Built to make placement preparation more structured, accessible, and practice-focused.
 
